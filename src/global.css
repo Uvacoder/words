@@ -1,0 +1,14 @@
+* {
+    
+    font-family: monospace;
+    
+  }
+  
+  #table1 {
+    
+    
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+
+  
