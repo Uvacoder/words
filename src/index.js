@@ -12,7 +12,7 @@ import { Router } from "wouter";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Router basename="/home">
+    <Router basename="/">
       <App />
     </Router>
   </React.StrictMode>

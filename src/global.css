@@ -11,4 +11,12 @@
     width: fit-content;
   }
 
+ button .text { 
+    display: inline !important;
+  }
+
+.position{
+    width: min-content !important;
+}
+
   

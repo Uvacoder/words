@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-transparent mx-auto justify-content-center">
       <Link
         className="nav-item nav-link text-center m-2"
-        href="/home"
+        href="/"
         id="home-link"
         style={{ fontSize: "16px", color:"darkblue" }}
       >

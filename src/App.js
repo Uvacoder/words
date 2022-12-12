@@ -13,7 +13,7 @@ class App extends React.Component {
       <div className="container">
         <Navbar />
 
-        <Route path="/home" component={Home} />
+        <Route path="/" component={Home} />
         <Route path="/wordlist" component={Wordlist} />
       </div>
     );
